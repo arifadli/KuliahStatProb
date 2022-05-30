@@ -1,0 +1,1 @@
+Simulasi menggunakan perangkat lunak
