@@ -1,1 +1,1 @@
-demo korelasi dan determinasi
+demo korelasi dan determinasi!
